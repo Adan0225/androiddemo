@@ -1,0 +1,5 @@
+com/czy/hotfixdemo/MainActivity$3.class:1adb77ea406e66205acc2d505440ee3daa8511ab
+com/czy/hotfixdemo/a.class:792edfecd40807c2963059d7468281ea5cbe8c48
+com/czy/hotfixdemo/MainActivity.class:7b495eda92ac687b3fefa5ac12dc90dabde29ade
+com/czy/hotfixdemo/MainActivity$1.class:b39ced32af14e13821e4b3ca6eec8f8628ee31de
+com/czy/hotfixdemo/MainActivity$2.class:2f4bc9e7e7d9c14b11a255e9a20c7f090f4f8060
